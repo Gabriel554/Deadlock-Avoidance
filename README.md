@@ -1,2 +1,4 @@
 # deadlockAvoidance
-The program implements the Banker's algorithm for deadlock avoidance.  * User must first input a correct filename, from which the program will read all the data  * and populate matrices. The output of will be the data from the file and  * the result, which is the safe sequence.
+Implement the Banker's algorithm for deadlock avoidance, that works on a given set of N processes and M resource types (N<10,M<10). Use C/C++/C# or Java for the implementation, with a simple text interface, where the user enters only the name of the input file (text only). The program reads all the necessary input data from that file. 
+ 
+The input data and result is then displayed on the screen. 
