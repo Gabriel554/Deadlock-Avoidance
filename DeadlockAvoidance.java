@@ -6,8 +6,8 @@ package deadlockAvoidance;
  * Date: Nov 15, 2019
  * Purpose: The following program implements the Banker's algorithm for deadlock avoidance.
  * User must first input a correct filename, from which the program will read all the data
- * and populate matrices. The output of will be the data from the file and
- * the result, which is the safe sequence.
+ * and populate matrices. The output will be the data from the file and
+ * the final result, which is the safe sequence.
  * 
  */
 
